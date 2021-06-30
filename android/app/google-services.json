@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962972180393",
+    "firebase_url": "https://notifire-dxb-default-rtdb.firebaseio.com",
+    "project_id": "notifire-dxb",
+    "storage_bucket": "notifire-dxb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962972180393:android:68a95cdc339d0c74dfaeb8",
+        "android_client_info": {
+          "package_name": "com.example.notifirev4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962972180393-5hpbd5kurt6ptcm7gf0ek97151jims3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notifirev4",
+            "certificate_hash": "89380bc9925331996b6562fa6087fd6a46afc3db"
+          }
+        },
+        {
+          "client_id": "962972180393-kdmeb6jdtt0nplnf8soi8k7aiti9vpdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2d5AB_50B0NP-E1UQyJXjIvxGSmAQF2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962972180393-kdmeb6jdtt0nplnf8soi8k7aiti9vpdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
